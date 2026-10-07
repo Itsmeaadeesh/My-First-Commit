@@ -4,6 +4,7 @@
   "description": "Student contributions for GitHub Dev Days Jabalpur",
   "private": true,
   "scripts": {
+    "bot": "node scripts/bot.js",
     "build": "node scripts/build-contributors.js",
     "test": "node test/test-validate.js"
   },
