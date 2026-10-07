@@ -3,7 +3,8 @@
 Welcome to **GitHub Dev Days (Jabalpur)**! 🎉  
 Make your very first pull request to this repository, and watch your jigsaw piece fly in live on the projector screen!
 
-Live Puzzle Wall: **[https://itsmeaadeesh.github.io/githubdevdays-first-commit/](https://itsmeaadeesh.github.io/githubdevdays-first-commit/)**
+Live Puzzle Wall: **[https://itsmeaadeesh.github.io/githubdevdays-first-commit/](https://itsmeaadeesh.github.io/githubdevdays-first-commit/)**  
+*(Vercel mirror: [https://githubdevdays-first-commit.vercel.app](https://githubdevdays-first-commit.vercel.app))*
 
 <p align="center">
   <img src="assets/qr.png" width="180" alt="Scan to open this repository" />
