@@ -1,0 +1,14 @@
+{
+  "name": "my-first-commit",
+  "version": "1.0.0",
+  "description": "Student contributions for GitHub Dev Days Jabalpur",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-contributors.js",
+    "test": "node test/test-validate.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}
