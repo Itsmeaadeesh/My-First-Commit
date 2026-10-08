@@ -24,7 +24,7 @@ Follow these 7 quick steps directly on github.com:
 4. **In the file box:** Type your display name on ONE single line (example: `Aarav Sharma`).
 5. **Click Commit changes** (the green button at the top right).
 6. **Click "Contribute"** ➔ **"Open pull request"** ➔ **"Create pull request"**.
-7. **Wait ~30 seconds!** Our bot will automatically verify your file, merge it, and your piece will fly onto the live wall.
+7. **Wait for a mentor to merge your pull request**, and watch your piece fly onto the live wall!
 
 ---
 
